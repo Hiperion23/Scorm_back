@@ -1,0 +1,124 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/dompdf/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright  2021 by Connary Fagen. All rights reserved.
+FontName FSP DEMO - Greycliff CF Heavy
+FontSubfamily Regular
+UniqueID FONTSPRING DEMO:2.500;UKWN;GreycliffCF-Heavy
+FullName FSP DEMO - Greycliff CF Heavy Regular
+Version Version 2.500;FEAKit 1.0
+PostScriptName FONTSPRINGDEMO-GreycliffCFHeavyRegular
+Manufacturer Connary Fagen
+Designer Connary Fagen
+FontVendorURL connary.com
+FontDesignerURL connary.com
+PreferredFamily FONTSPRING DEMO - Greycliff CF Heavy
+PreferredSubfamily Regular
+Weight Bold
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -150
+FontHeightOffset 0
+Ascender 1120
+Descender -340
+FontBBox -53 -205 1058 740
+StartCharMetrics 98
+U 32 ; WX 192 ; N space ; G 3
+U 33 ; WX 598 ; N exclam ; G 4
+U 34 ; WX 598 ; N quotedbl ; G 5
+U 35 ; WX 598 ; N numbersign ; G 6
+U 36 ; WX 598 ; N dollar ; G 7
+U 37 ; WX 598 ; N percent ; G 8
+U 38 ; WX 598 ; N ampersand ; G 9
+U 39 ; WX 598 ; N quotesingle ; G 10
+U 40 ; WX 598 ; N parenleft ; G 11
+U 41 ; WX 598 ; N parenright ; G 12
+U 42 ; WX 598 ; N asterisk ; G 13
+U 43 ; WX 598 ; N plus ; G 14
+U 44 ; WX 276 ; N comma ; G 15
+U 45 ; WX 598 ; N hyphen ; G 16
+U 46 ; WX 267 ; N period ; G 17
+U 47 ; WX 598 ; N slash ; G 18
+U 48 ; WX 667 ; N zero ; G 19
+U 49 ; WX 393 ; N one ; G 20
+U 50 ; WX 546 ; N two ; G 21
+U 51 ; WX 525 ; N three ; G 22
+U 52 ; WX 598 ; N four ; G 23
+U 53 ; WX 544 ; N five ; G 24
+U 54 ; WX 568 ; N six ; G 25
+U 55 ; WX 533 ; N seven ; G 26
+U 56 ; WX 594 ; N eight ; G 27
+U 57 ; WX 568 ; N nine ; G 28
+U 58 ; WX 267 ; N colon ; G 29
+U 59 ; WX 276 ; N semicolon ; G 30
+U 60 ; WX 598 ; N less ; G 31
+U 61 ; WX 598 ; N equal ; G 32
+U 62 ; WX 598 ; N greater ; G 33
+U 63 ; WX 469 ; N question ; G 34
+U 64 ; WX 598 ; N at ; G 35
+U 65 ; WX 704 ; N A ; G 36
+U 66 ; WX 596 ; N B ; G 37
+U 67 ; WX 694 ; N C ; G 38
+U 68 ; WX 701 ; N D ; G 39
+U 69 ; WX 510 ; N E ; G 40
+U 70 ; WX 502 ; N F ; G 41
+U 71 ; WX 760 ; N G ; G 42
+U 72 ; WX 695 ; N H ; G 43
+U 73 ; WX 298 ; N I ; G 44
+U 74 ; WX 568 ; N J ; G 45
+U 75 ; WX 693 ; N K ; G 46
+U 76 ; WX 477 ; N L ; G 47
+U 77 ; WX 886 ; N M ; G 48
+U 78 ; WX 710 ; N N ; G 49
+U 79 ; WX 806 ; N O ; G 50
+U 80 ; WX 582 ; N P ; G 51
+U 81 ; WX 806 ; N Q ; G 52
+U 82 ; WX 611 ; N R ; G 53
+U 83 ; WX 562 ; N S ; G 54
+U 84 ; WX 550 ; N T ; G 55
+U 85 ; WX 670 ; N U ; G 56
+U 86 ; WX 704 ; N V ; G 57
+U 87 ; WX 1081 ; N W ; G 58
+U 88 ; WX 661 ; N X ; G 59
+U 89 ; WX 641 ; N Y ; G 60
+U 90 ; WX 550 ; N Z ; G 61
+U 91 ; WX 598 ; N bracketleft ; G 62
+U 92 ; WX 598 ; N backslash ; G 63
+U 93 ; WX 598 ; N bracketright ; G 64
+U 94 ; WX 598 ; N asciicircum ; G 65
+U 95 ; WX 598 ; N underscore ; G 66
+U 96 ; WX 598 ; N grave ; G 67
+U 97 ; WX 612 ; N a ; G 68
+U 98 ; WX 612 ; N b ; G 69
+U 99 ; WX 506 ; N c ; G 70
+U 100 ; WX 612 ; N d ; G 71
+U 101 ; WX 545 ; N e ; G 72
+U 102 ; WX 399 ; N f ; G 73
+U 103 ; WX 603 ; N g ; G 74
+U 104 ; WX 588 ; N h ; G 75
+U 105 ; WX 276 ; N i ; G 76
+U 106 ; WX 283 ; N j ; G 77
+U 107 ; WX 577 ; N k ; G 78
+U 108 ; WX 273 ; N l ; G 79
+U 109 ; WX 866 ; N m ; G 80
+U 110 ; WX 588 ; N n ; G 81
+U 111 ; WX 571 ; N o ; G 82
+U 112 ; WX 612 ; N p ; G 83
+U 113 ; WX 612 ; N q ; G 84
+U 114 ; WX 402 ; N r ; G 85
+U 115 ; WX 452 ; N s ; G 86
+U 116 ; WX 379 ; N t ; G 87
+U 117 ; WX 588 ; N u ; G 88
+U 118 ; WX 583 ; N v ; G 89
+U 119 ; WX 886 ; N w ; G 90
+U 120 ; WX 542 ; N x ; G 91
+U 121 ; WX 586 ; N y ; G 92
+U 122 ; WX 465 ; N z ; G 93
+U 123 ; WX 598 ; N braceleft ; G 94
+U 124 ; WX 598 ; N bar ; G 95
+U 125 ; WX 598 ; N braceright ; G 96
+U 126 ; WX 598 ; N asciitilde ; G 97
+EndCharMetrics
+EndFontMetrics
