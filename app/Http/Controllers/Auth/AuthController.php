@@ -19,8 +19,6 @@ class AuthController extends Controller
             return response()->json(['message' => 'Credenciales inválidas'], 401);
         }
 
-        // ✅ Ya no usamos $request->session()->regenerate()
-
         return response()->json([
             'user' => Auth::user()
         ]);
